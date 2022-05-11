@@ -27,7 +27,7 @@ MyFlix is Netflix Redesigned Clone Android App. This Repo is for progress update
 
 ### Tech Stack
 
-- [ Figma ](https://www.figma.com/file/0HMxMJvbims3fheuWXnMhX/Myflix?node-id=1%3A4) For UI/UX designing
+- [ Figma ](https://www.figma.com/file/0HMxMJvbims3fheuWXnMhX/Myflix?node-id=0%3A1) For UI/UX designing
 - Kotlin
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
 - [Retrofit](https://square.github.io/retrofit/) A type-safe HTTP client for Android and Java
